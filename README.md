@@ -6,16 +6,7 @@ Instead of starting from scratch, we leverage the pre-trained model and adapt it
 
 In this project, I performed transfer learning on the `SSD MobileNet V2 FPNLite 320x320` model using Tensorflow's Object Detection API to allow it to detect glasses on a person's face in real-time.
 
-<center>
- <iframe width="560" 
-         height="315" 
-         src="https://youtu.be/iw_hm_AtAuQ" 
-         title="YouTube video player" 
-         frameborder="0" 
-         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-         allowfullscreen>
- </iframe>
-</center>https://youtu.be/iw_hm_AtAuQ
+[<img src="workspace\images\demo.gif" width="200"/>]()
 
 # Setup Guide
 
