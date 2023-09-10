@@ -1,0 +1,26 @@
+<annotation>
+	<folder>to_be_labeled</folder>
+	<filename>face-31.jpg</filename>
+	<path>C:\Users\Janamejay\Documents\object_detection\images\all_images\to_be_labeled\face-31.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no_glasses</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>165</xmin>
+			<ymin>439</ymin>
+			<xmax>776</xmax>
+			<ymax>560</ymax>
+		</bndbox>
+	</object>
+</annotation>
